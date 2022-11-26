@@ -94,63 +94,77 @@ Untuk pembagian nya dimulai dari 192.202.0.0/20 hingga 192.202.11.224/30
 </p>
 
 ## Testing
-1. Daunless ke Profound
+Daunless ke Profound
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089542-a40f678a-af2c-4b93-afac-522c350596da.png)
 <br>
-2. Guideau ke Firefist
+
+Guideau ke Firefist
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089611-6ba2403f-6d24-4f87-8d95-f4c1d24f23cc.png)
 <br>
-3. The Witch ke the Order
+
+The Witch ke the Order
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089671-0f52112e-16e0-42dd-b500-499124287f93.png)
 <br>
-4. Helga ke Phanora
+
+Helga ke Phanora
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089689-3a4de703-af2c-41bd-9068-f3ef6ffc335a.png)
 <br>
-5. The Beast ke The Instrument
+
+The Beast ke The Instrument
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089709-b29deb16-eb09-4e33-81b2-198166696711.png)
 <br>
-6. The Witch ke The Beast
+
+The Witch ke The Beast
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089748-5347530a-4376-4b43-ab7d-f9ac664a9a02.png)
 <br>
-7. Matt Ougat ke Corvekt
+
+Matt Ougat ke Corvekt
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089769-567690c5-e124-4595-8d39-83c541f68b8d.png)
 <br>
-8. The Beast ke Spendrow
+
+The Beast ke Spendrow
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089792-455f4f11-2861-43f6-bbe3-15a295d64b73.png)
 <br>
-9. Haines ke Keith
+
+Haines ke Keith
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089854-dda2d614-3c60-43ba-aa9c-9221920e54ab.png)
 <br>
-10. Johan ke The Queen
+
+Johan ke The Queen
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089873-4e7627fc-544c-4db7-b5f1-d6a22efc9032.png)
 <br>
-11. Oakleave ke The Witch
+
+Oakleave ke The Witch
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089887-f8b52c8d-c3a2-402e-9195-54231117af8b.png)
 <br>
-12. Ashaf ke the Resonance
+
+Ashaf ke the Resonance
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089907-3971a4d2-333b-442f-b208-e6c2ff63ecc5.png)
 <br>
-13. Corvekt ke The Minister
+
+Corvekt ke The Minister
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089935-6fb3f02d-648e-43d1-9dcf-f7b7becbaead.png)
 <br>
-14. Guideau ke Helga
+
+Guideau ke Helga
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089959-bab2b1f8-7daa-4591-9769-22d73a98a019.png)
 <br>
-15. Ashaf ke The Queen
+
+Ashaf ke The Queen
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089965-7a69d5a2-26e0-4d23-9896-8ea02490026b.png)
 <br>
