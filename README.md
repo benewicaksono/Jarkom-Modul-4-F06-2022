@@ -210,6 +210,14 @@ Kondisi Awal
 1. Gabung subnet G3 dan I1 => J1 dengan netmask /16 => 1 tingkat dari netmask terbesar yang diambil (/17 dari I1)
 ![image](https://user-images.githubusercontent.com/87473932/204094884-95f34282-4599-4c1c-9f66-9f2f450d45fe.png)
 
+## Pembagian IP
+Pada pembagian ini, terdapat 18 subnet dimulai dari A1-A18. Selanjutnya, kita dapat melakukan pembagian seperti tabel dibawah ini
+<br>
+<p align="center">
+  <img src="img/tabelcidr.png" width="600">
+</p><br>
+
+
 # Kendala
 1. Kurang mendalami dengan baik perhitungan pada VSLM dan CIDR
 2. Sering terjadi problem pada saat testing / ping pada CPT
