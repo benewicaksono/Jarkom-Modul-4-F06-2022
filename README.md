@@ -59,10 +59,38 @@ Pada pembagian ini, terdapat 18 subnet dimulai dari A1-A18. Selanjutnya, kita da
 </p>
 Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan netmask /20 untuk memberikan pengalamatan IP pada subnet.
 
-- Ketiga, kita dapat mengitung pembagian IP dengan membuat pohon. lalu, memilih subnet besar yaitu 192.202.0.0 dengan netmask /20. 
+</p>
+
+- Ketiga, kita dapat mengitung pembagian IP dengan membuat tree. lalu, memilih subnet besar yaitu 192.202.0.0 dengan netmask /20. 
 <br>
 <p align="center">
   <img src="img/pohon.png" width="600">
 </p><br>
+Untuk pembagian nya dimulai dari 192.202.0.0/20 hingga 192.202.11.224/30
+
+- Keempat, setelah membuat tree, kita dapat melanjutkan dengan pembagian IP untuk Network ID dan Broadcast Address
+<p>
+
+|    Simbol   |  Network ID  | Broadcast Address | 
+| ------------| -------------|-------------------|
+|     A1      |    1001      |   192.202.3.255   |
+|     A2      |     2        |   192.202.11.195  | 
+|     A3      |     251      |   192.202.8.255   |
+|     A4      |     2        |   192.202.11.199  | 
+|     A5      |     51       |   192.202.11.191  |  
+|     A6      |     2        |   192.202.11.203  |
+|     A7      |     2        |   192.202.11.207  | 
+|     A8      |     121      |   192.202.10.124  | 
+|     A9      |     2        |   192.202.11.211  |  
+|    A10      |     211      |   192.202.9.255   |  
+|    A11      |     2        |   192.202.11.215  |   
+|    A12      |     501      |   192.202.5.255   |   
+|    A13      |     2        |   192.202.11.219  |  
+|    A14      |     71       |   192.202.10.255  |   
+|    A15      |     421      |   192.202.11.127  |   
+|    A16      |     2        |   192..202.11.223 |   
+|    A17      |     2        |   192.202.11.227  |   
+|    A18      |     271      |   192.202.7.255   |   
+</p>
 
 
