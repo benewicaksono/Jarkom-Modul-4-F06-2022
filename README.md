@@ -21,10 +21,13 @@
 
 # Cisco Packet Tracer menggunakan VLSM
 - Pertama membuat topologi pada CPT, sesuai dengan yang diminta soal
+<br>
 <p align="center">
   <img src="img/topologi_cpt.png" width="600">
 </p><br>
+
 - Kedua dapat mebuat label pada topologi
+<br>
 <p align="center">
   <img src="img/labeling.png" width="600">
 </p><br>
