@@ -168,3 +168,24 @@ Ashaf ke The Queen
 <br>
 ![image](https://user-images.githubusercontent.com/87473932/204089965-7a69d5a2-26e0-4d23-9896-8ea02490026b.png)
 <br>
+
+# GNS3 Menggunakan CIDR
+## Step 1 (A)
+![image](https://user-images.githubusercontent.com/87473932/204092627-1a4bf7c2-b5ae-4a84-824d-cad10b0f90ca.png)
+## Step 2 (B)
+![image](https://user-images.githubusercontent.com/87473932/204094721-bf0317f8-3bda-4687-9678-a611fc27913b.png)
+## Step 3 (C)
+![image](https://user-images.githubusercontent.com/87473932/204094729-84e6b71c-a773-4b89-b27a-7342734a9175.png)
+## Step 4 (D)
+![image](https://user-images.githubusercontent.com/87473932/204094736-b0917e76-c133-41a6-855b-7751503b2095.png)
+## Step 5 (E)
+![image](https://user-images.githubusercontent.com/87473932/204094745-2aac36b4-91fc-4edf-95b1-58d423b28b26.png)
+## Step 6 (F)
+![image](https://user-images.githubusercontent.com/87473932/204094753-4d80e79c-fdf1-4f36-973f-96fece80386b.png)
+## Step 7 (G)
+![image](https://user-images.githubusercontent.com/87473932/204094798-1c301b12-3deb-435a-9894-31baba915fcb.png)
+## Step 8 (H)
+![image](https://user-images.githubusercontent.com/87473932/204094808-5273d8e6-4b4b-4fca-b287-290f07c61d0b.png)
+## Step 9 (I)
+![image](https://user-images.githubusercontent.com/87473932/204094843-3637a30f-019b-4e0c-8c75-5519a493de88.png)
+## Step 10 (J)
