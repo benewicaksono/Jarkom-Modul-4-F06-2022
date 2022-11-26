@@ -189,3 +189,4 @@ Ashaf ke The Queen
 ## Step 9 (I)
 ![image](https://user-images.githubusercontent.com/87473932/204094843-3637a30f-019b-4e0c-8c75-5519a493de88.png)
 ## Step 10 (J)
+![image](https://user-images.githubusercontent.com/87473932/204094884-95f34282-4599-4c1c-9f66-9f2f450d45fe.png)
