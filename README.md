@@ -26,8 +26,30 @@
   <img src="img/topologi_cpt.png" width="600">
 </p><br>
 
-- Kedua dapat mebuat label pada topologi
+- Kedua dapat mebuat label pada topologi 
 <br>
 <p align="center">
   <img src="img/labeling.png" width="600">
 </p><br>
+Pada pembagian ini, terdapat 18 subnet dimulai dari A1-A18. Selanjutnya, kita dapat melakukan pembagian Simbol/Label, Jumlah IP, Length, dan Subnet Mask 
+
+|   Simbol   |  Jumlah IP |  Length |  Subnet Mask  | 
+| -----------| -----------| --------|---------------|
+|     A1     |    1001    |   /22   | 255.255.252.0 |   
+|     A2     |     2      |   /30   |255.255.255.252| 
+|     A3     |     251    |   /24   | 255.255.252.0 | 
+|     A4     |     2      |   /30   |255.255.255.252| 
+|     A5     |     51     |   /26   |255.255.255.192| 
+|     A6     |     2      |   /30   |255.255.255.252| 
+|     A7     |     2      |   /30   |255.255.255.252| 
+|     A8     |     121    |   /25   |255.255.255.128| 
+|     A9     |     2      |   /30   |255.255.255.252| 
+|    A10     |     211    |   /24   | 255.255.252.0 | 
+|    A11     |     2      |   /30   |255.255.255.252| 
+|    A12     |     501    |   /23   | 255.255.254.0 | 
+|    A13     |     2      |   /30   |255.255.255.252| 
+|    A14     |     71     |   /25   |255.255.255.128| 
+|    A15     |     421    |   /25   |255.255.255.128| 
+|    A16     |     2      |   /30   |255.255.255.252| 
+|    A17     |     2      |   /30   |255.255.255.252| 
+|    A18     |     271    |   /23   |255.255.254.0  | 
