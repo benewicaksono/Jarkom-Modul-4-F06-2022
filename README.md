@@ -170,11 +170,18 @@ Ashaf ke The Queen
 <br>
 
 # GNS3 Menggunakan CIDR
+Melakukan penggabungan subnet-subnet paling bawah dalam topologi yaitu dimulai dari subnet yang paling jauh dengan cloud/nat hingga hanya memiliki 1 subnet saja.
 ## Step 1 (A)
+Kondisi Awal
 ![image](https://user-images.githubusercontent.com/87473932/204092627-1a4bf7c2-b5ae-4a84-824d-cad10b0f90ca.png)
 ## Step 2 (B)
+1. Gabung subnet A2 dan A3 => B1 dengan netmask /23 => 1 tingkat dari netmask terbesar yang diambil (/24 dari A3)
+2. Gabung subnet A11 dan A10 => B2 dengan netmask /23 => 1 tingkat dari netmask terbesar yang diambil (/24 dari A10)
 ![image](https://user-images.githubusercontent.com/87473932/204094721-bf0317f8-3bda-4687-9678-a611fc27913b.png)
 ## Step 3 (C)
+1. Gabung subnet A1 dan B1 => C1 dengan netmask /21 => 1 tingkat dari netmask terbesar yang diambil (/22 dari A1)
+2. Gabung subnet A12 dan B2 => C2 dengan netmask /22 => 1 tingkat dari netmask terbesar yang diambil (/23 dari A12)
+3. Gabung subnet A14 dan A15 => C3 dengan netmask /24 => 1 tingkat dari netmask terbesar yang diambil (/25 dari A14)
 ![image](https://user-images.githubusercontent.com/87473932/204094729-84e6b71c-a773-4b89-b27a-7342734a9175.png)
 ## Step 4 (D)
 ![image](https://user-images.githubusercontent.com/87473932/204094736-b0917e76-c133-41a6-855b-7751503b2095.png)
