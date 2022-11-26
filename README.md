@@ -62,7 +62,7 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 - Ketiga, kita dapat mengitung pembagian IP dengan membuat pohon. lalu, memilih subnet besar yaitu 192.202.0.0 dengan netmask /20. 
 <br>
 <p align="center">
-  <img src="img/.png" width="600">
+  <img src="img/pohon.png" width="600">
 </p><br>
 
 
