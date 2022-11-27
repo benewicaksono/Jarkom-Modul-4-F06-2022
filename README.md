@@ -211,7 +211,8 @@ Kondisi Awal
 ![image](https://user-images.githubusercontent.com/87473932/204132909-888de7a3-ae03-454e-ae5f-3a8335d363d5.png)
 
 ## Pembagian IP
-Pada pembagian ini, terdapat 18 subnet dimulai dari A1-A18. Selanjutnya, kita dapat melakukan pembagian seperti tabel dibawah ini
+Pada pembagian ini, terdapat 18 subnet dimulai dari A1-A18. Selanjutnya, kita dapat melakukan pembagian seperti pohon dan tabel dibawah ini
+![image](https://user-images.githubusercontent.com/87473932/204133386-32121d2c-fe0a-4fb3-9173-fb3041810a9b.png)
 <br>
 <p align="center">
   <img src="img/tabelcidr.png" width="600">
