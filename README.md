@@ -204,10 +204,10 @@ Kondisi Awal
 1. Gabung subnet A16 dan G3 => H1 dengan netmask /21 => 1 tingkat dari netmask terbesar yang diambil (/22 dari G3)
 ![image](https://user-images.githubusercontent.com/87473932/204094808-5273d8e6-4b4b-4fca-b287-290f07c61d0b.png)
 ## Step 9 (I)
-1. Gabung subnet G2 dan H1 => I1 dengan netmask /17 => 1 tingkat dari netmask terbesar yang diambil (/18 dari G2)
+1. Gabung subnet G1 dan H1 => I1 dengan netmask /17 => 1 tingkat dari netmask terbesar yang diambil (/18 dari G2)
 ![image](https://user-images.githubusercontent.com/87473932/204094843-3637a30f-019b-4e0c-8c75-5519a493de88.png)
 ## Step 10 (J)
-1. Gabung subnet G3 dan I1 => J1 dengan netmask /16 => 1 tingkat dari netmask terbesar yang diambil (/17 dari I1)
+1. Gabung subnet G2 dan I1 => J1 dengan netmask /16 => 1 tingkat dari netmask terbesar yang diambil (/17 dari I1)
 ![image](https://user-images.githubusercontent.com/87473932/204094884-95f34282-4599-4c1c-9f66-9f2f450d45fe.png)
 
 ## Pembagian IP
